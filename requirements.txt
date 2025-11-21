@@ -1,0 +1,4 @@
+pyautogen
+fastapi
+uvicorn[standard]
+requests
