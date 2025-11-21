@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 python-dotenv
-openai
+openai>=1.0.0
 pyautogen==0.1.14
 requests
 pydantic
