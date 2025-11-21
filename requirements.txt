@@ -4,4 +4,4 @@ python-dotenv
 openai
 pyautogen==0.1.14
 requests
-pydantic==2.7.2
+pydantic
