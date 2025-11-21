@@ -1,4 +1,7 @@
-pyautogen
 fastapi
-uvicorn[standard]
+uvicorn
+python-dotenv
+openai
+pyautogen
 requests
+pydantic
